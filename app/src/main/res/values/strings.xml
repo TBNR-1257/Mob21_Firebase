@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">mob21 firebase</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="created_at">Created At</string>
+    <string name="update">Update</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delete">Delete</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="new_user">New User</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="profile">Profile</string>
+    <string name="edit_profile_pic">Edit Profile Pic</string>
+    <string name="username">Name: POtaTo_SLaYer</string>
+    <string name="email_profile">Email: Im dead</string>
+    <string name="logout">Logout</string>
+    <string name="oauth_client">485305466178-blsm40ubojqd8obsu23v5s2l28r8re17.apps.googleusercontent.com</string>
+</resources>
